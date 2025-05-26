@@ -1,0 +1,30 @@
+*{
+    padding: 1rem;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+p{
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+li {
+    font-size: 1.8rem;
+    list-style: none;
+}
+
+button {
+    font-size: 1.8rem;
+    padding: 12px;
+    border: none;
+    border-radius: 15px;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

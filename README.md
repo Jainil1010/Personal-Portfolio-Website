@@ -11,7 +11,7 @@ A modern, responsive personal portfolio website built with the MERN stack to sho
 ## 🚀 Features Checklist
 
 ### Core Features
-- [ ] **Home Page** - Landing page with hero section and introduction
+- [x] **Home Page** - Landing page with hero section and introduction
 - [ ] **About Page** - Personal information, skills, and background
 - [ ] **Projects Page** - Showcase of your development projects
 - [ ] **Contact Page** - Contact information and contact form
@@ -73,27 +73,27 @@ portfolio-website/
 ## 🛠️ Technologies Used
 
 ### Frontend
-- [ ] **React.js** - Component-based UI library
-- [ ] **React Router** - Client-side routing
-- [ ] **CSS3/SCSS** - Styling and animations
-- [ ] **Axios** - HTTP client for API calls
+- **React.js** - Component-based UI library
+- **React Router** - Client-side routing
+- **CSS3/SCSS** - Styling and animations
+- **Axios** - HTTP client for API calls
 
 ### Backend
-- [ ] **Node.js** - JavaScript runtime
-- [ ] **Express.js** - Web framework
-- [ ] **MongoDB** - NoSQL database
-- [ ] **Mongoose** - MongoDB object modeling
+- **Node.js** - JavaScript runtime
+- **Express.js** - Web framework
+- **MongoDB** - NoSQL database
+- **Mongoose** - MongoDB object modeling
 
 ### Additional Tools
-- [ ] **Nodemailer** - Email sending functionality
-- [ ] **Multer** - File upload handling (for resume/images)
-- [ ] **Cors** - Cross-origin resource sharing
-- [ ] **Dotenv** - Environment variable management
+- **Nodemailer** - Email sending functionality
+- **Multer** - File upload handling (for resume/images)
+- **Cors** - Cross-origin resource sharing
+- **Dotenv** - Environment variable management
 
 ## 🎨 Design Considerations
 
 ### Pages to Create
-- [ ] **Home** - Hero section, brief intro, call-to-action
+- [x] **Home** - Hero section, brief intro, call-to-action
 - [ ] **About** - Detailed background, skills, experience
 - [ ] **Projects** - Project cards with descriptions and links
 - [ ] **Blog** - List of blog posts with pagination
