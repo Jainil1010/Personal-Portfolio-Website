@@ -12,9 +12,9 @@ A modern, responsive personal portfolio website built with the MERN stack to sho
 
 ### Core Features
 - [x] **Home Page** - Landing page with hero section and introduction
-- [ ] **About Page** - Personal information, skills, and background
-- [ ] **Projects Page** - Showcase of your development projects
-- [ ] **Contact Page** - Contact information and contact form
+- [x] **About Page** - Personal information, skills, and background
+- [x] **Projects Page** - Showcase of your development projects
+- [x] **Contact Page** - Contact information and contact form
 - [ ] **Contact Form** - Functional form that stores data in MongoDB
 - [ ] **Blog Section** - Basic blog with CRUD operations
   - [ ] Create new blog posts
@@ -94,10 +94,10 @@ portfolio-website/
 
 ### Pages to Create
 - [x] **Home** - Hero section, brief intro, call-to-action
-- [ ] **About** - Detailed background, skills, experience
+- [x] **About** - Detailed background, skills, experience
 - [ ] **Projects** - Project cards with descriptions and links
 - [ ] **Blog** - List of blog posts with pagination
-- [ ] **Contact** - Contact form and social media links
+- [x] **Contact** - Contact form and social media links
 
 ### UI/UX Elements
 - [ ] Navigation bar with smooth scrolling
